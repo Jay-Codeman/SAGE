@@ -28,6 +28,7 @@ def args_parser():
     parser.add_argument('--local_epochs', type=int, default=5,
                         help='local training epochs in local training')
     parser.add_argument('--batch_size_local_labeled', type=int, default=128)
+    parser.add_argument('--batch_size_local_unlabeled', type=int, default=128)
     parser.add_argument('--batch_size_test', type=int, default=512)
     parser.add_argument('--lr_local_training', type=float, default=0.1)
     parser.add_argument('--lr_distillation_training', type=float, default=0.1)

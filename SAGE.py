@@ -288,7 +288,6 @@ def fixmatch(alpha):
         'non_iid:{alpha}\n'
         'mu:{mu}\n'
         'num_rounds:{num_rounds}\n'
-        'epoch_label:{epoch_label}, epoch_unlabel:{epoch_unlabel}\n'
         'batch_label:{batch_label}, batch_unlabel:{batch_unlabel}'.format(
             dataset=args.dataset,
             num_classes=args.num_classes,
