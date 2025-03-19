@@ -1,6 +1,6 @@
 # SAGE
 
-**This is the repository of the CVPR 2025 paper: "Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch.**
+**Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch**
 
 ![pipeline.png](pipeline.png)
 
