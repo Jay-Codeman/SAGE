@@ -18,9 +18,12 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2503.13227-b31b1b.svg)](https://arxiv.org/abs/2503.13227)
 [![cvpr](https://img.shields.io/badge/CVPR-HomePage-blue)](https://cvpr.thecvf.com/virtual/2025/poster/33062)
 
+*Original Title: Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy.*
+
 ![pipeline.png](pipeline.png)
 
 </div>
+
 
 
 ### Abstract
